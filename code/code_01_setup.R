@@ -1,0 +1,6 @@
+library(tidyverse)
+library(xml2)
+library(magrittr)
+library(rvest)
+library(RSelenium)
+library(pkgcond)
